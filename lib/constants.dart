@@ -1,0 +1,1 @@
+const double kCanvasSize = 200.0;
